@@ -18,7 +18,7 @@ step2: install the following packages in R
 
 step3: open R terminal, and run the following command
 
-```
+```R
 library(shiny)
 
 runApp("/path/to/FindIT2_shiny", port=9999, host="0.0.0.0")

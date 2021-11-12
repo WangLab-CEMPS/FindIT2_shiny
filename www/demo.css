@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  width: auto;
+  /* display: flex !important; */
+  /*font-family: "Yusei Magic", sans-serif;
+  max-width: 1400px; 
+  margin: 0 20% 0 20%; */
+}
+
+footer {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+  height: 30px;
+  right: 1%;
+  text-align: right;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+label {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 15px 15px 0px 15px;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+h3.box-title {
+  font-weight: 700;
+  font-size: 25px !important;
+}
+
+h5 {
+  font-weight: 600;
+}
+
+table {
+  margin-left: 1%;
+}
+
+.main-header .logo {
+  font-family: "Yusei Magic", sans-serif;
+}
+
+/* #peak_input_nearestGene_progress {
+  margin-bottom: 0;
+} */
+
+#bb {
+  padding: 2px;
+}
+
+#cc {
+  color: rgb(138, 12, 12);
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* #dd {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+.box {
+  min-height: 210px;
+  min-width: 200px;
+}
+
+.content {
+  padding-top: 0px;
+  height: auto;
+}
+
+.col-sm-5 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.col-sm-7 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.btn-success {
+  background-color: aliceblue;
+  width: 80%;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-left: 9%;
+  margin-right: 8%;
+  border: 3px solid rgb(91, 238, 62);
+}
+
+.btn-warning {
+  background-color: rgb(246, 251, 253);
+  width: 80%;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-left: 9%;
+  margin-right: 8%;
+  border: 3px solid rgb(248, 145, 10);
+}
+
+.btn-info {
+  background-color: rgb(246, 251, 253);
+  width: 80%;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-left: 9%;
+  margin-right: 8%;
+  border: 3px solid rgb(73, 182, 209);
+}
+
+.shiny-input-container {
+  margin-bottom: 0;
+}
+
+.sidebar-menu > li {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.sidebar-menu > li > a {
+  padding: 10px 5px 10px 20px;
+  font-size: 20px;
+}
+
+.box {
+  margin-top: 20px;
+  box-shadow: none;
+}
+
+.shiny-download-link {
+  width: 200px;
+  height: 45px;
+  font-size: 22px;
+}
+
+/* #mm_geneScan {
+  background-image: url("static/3.jpg");
+  background-size: cover;
+} */
+
+/* .selectize-input.full {
+    padding: 2px 10px 2px 2px;
+} */
+
+/* .content-wrapper {
+  min-height: 1100px !important;
+} */
